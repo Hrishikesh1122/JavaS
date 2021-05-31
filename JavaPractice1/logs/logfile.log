@@ -1,0 +1,16 @@
+INFO  | 2021-05-30 21:31:25 | [main] javapractice1.App (App.java:16) - Hello World Will show info message
+WARN  | 2021-05-30 21:31:25 | [main] javapractice1.App (App.java:17) - Hello World Will show warn message
+ERROR | 2021-05-30 21:31:25 | [main] javapractice1.App (App.java:18) - Hello World Will show error message
+FATAL | 2021-05-30 21:31:25 | [main] javapractice1.App (App.java:19) - Hello World Will show fatal message
+INFO  | 2021-05-30 21:31:25 | [main] javapractice1.App (App.java:20) - Appending String Hello World 
+WARN  | 2021-05-30 21:34:14 | [main] javapractice1.App (App.java:17) - Hello World Will show warn message
+ERROR | 2021-05-30 21:34:14 | [main] javapractice1.App (App.java:18) - Hello World Will show error message
+FATAL | 2021-05-30 21:34:14 | [main] javapractice1.App (App.java:19) - Hello World Will show fatal message
+WARN  | 2021-05-30 21:34:44 | [main] javapractice1.App (App.java:17) - Hello World Will show warn message
+ERROR | 2021-05-30 21:34:44 | [main] javapractice1.App (App.java:18) - Hello World Will show error message
+FATAL | 2021-05-30 21:34:44 | [main] javapractice1.App (App.java:19) - Hello World Will show fatal message
+INFO  | 2021-05-30 22:03:17 | [main] javapractice1.App (App.java:16) - Hello World Will show info message
+WARN  | 2021-05-30 22:03:17 | [main] javapractice1.App (App.java:17) - Hello World Will show warn message
+ERROR | 2021-05-30 22:03:17 | [main] javapractice1.App (App.java:18) - Hello World Will show error message
+FATAL | 2021-05-30 22:03:17 | [main] javapractice1.App (App.java:19) - Hello World Will show fatal message
+INFO  | 2021-05-30 22:03:17 | [main] javapractice1.App (App.java:20) - Appending String Hello World 
